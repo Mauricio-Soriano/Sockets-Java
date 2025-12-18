@@ -1,0 +1,4 @@
+Este es un mensaje para Luna enviado desde un dispositivo.
+este es otro mensaje enviado desde el mismo dispositivo pero con otra lectura.
+cada linea es una lectura diferente.
+se necesita saber cada cuando hay un salto de linea para poder leer la lectura.
